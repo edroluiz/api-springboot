@@ -49,23 +49,33 @@
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 675e504bc4be716081a5c4fea3ed264742ef2263
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
 			<version>2.0.0</version>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 675e504bc4be716081a5c4fea3ed264742ef2263
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-ui</artifactId>
 			<version>1.6.14</version>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 675e504bc4be716081a5c4fea3ed264742ef2263
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
+<<<<<<< HEAD
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
@@ -76,6 +86,8 @@
 			<artifactId>java-jwt</artifactId>
 			<version>4.3.0</version>
 		</dependency>
+=======
+>>>>>>> 675e504bc4be716081a5c4fea3ed264742ef2263
 	</dependencies>
 
 	<build>
